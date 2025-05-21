@@ -1,4 +1,4 @@
 # firstdemo
 This is my first Git repository 
 <br>
-Author: Gandharv Hujare
+Author: Gandharv Hujare(student)
